@@ -1,0 +1,28 @@
+.name, .title, .title-image{
+   display: block;
+   text-align: center;
+}
+.title-image{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.title-image img {
+    width: 100%;
+}
+.box-title , .box-date {
+    text-align: center ;
+}
+.boxes-box {
+    display: inline-block;
+}
+
+.news {
+    width: 25%;
+    display: inline-block;
+    float: left;
+}
+.boxes-news {
+    width: 1100px;
+    display: block;
+    margin: 0 auto;
+}
